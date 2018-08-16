@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body{
+    width: 500px;
+    margin: 0px auto;
+}
+h1{
+    text-align: center;
+}
+.bla{
+    width: 100px;
+    height: 100px;
+    background: #848484;
+    font-size: 80px;
+    color: #ffffff;
+    cursor: pointer;
+    }
+.ble{
+    background: #fafafa;
+    margin: 0px auto;
+    }
+nav#novo input{
+    width: 100px;
+    margin-left: 200px;
+    padding: 5px;
+    background: #ffffff;
+    color: #000000;
+    border: solid;
+    border-color: #848484;
+}
